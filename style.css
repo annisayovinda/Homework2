@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+header {
+  width: 1200px;
+  margin: auto;
+  position: relative;
+  margin-bottom: 30px;
+  float: top;
+  height: 250px;
+}
+.tulisan {
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+a {
+  color: inherit;
+}
+.medsos ul li {
+  display: inline-block;
+  margin-right: 40px;
+}
+footer {
+  padding: 5px 20px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding-bottom: 50px;
+}
